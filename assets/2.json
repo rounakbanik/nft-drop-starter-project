@@ -1,0 +1,19 @@
+{
+    "name": "Solana Squirrel #3",
+    "symbol": "SOSQ",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "pdKZxiNyAv13WcHqktdN7xG9nYXZ2zWnocyJSXYWk3m",
+          "share": 100
+        }
+      ]
+    }
+  }
